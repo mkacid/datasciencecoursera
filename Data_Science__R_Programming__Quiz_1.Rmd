@@ -146,7 +146,7 @@ x
 * Month, Day, Temp, Wind
 * __Ozone, Solar.R, Wind, Temp, Month, Day__
 ```{r}
-hw1_data<-read.csv("hw1_data.csv")
+hw1_data<-read.csv("Data_Sets/hw1_data.csv")
 colnames(hw1_data)
 ```
 

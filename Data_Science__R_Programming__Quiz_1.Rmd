@@ -43,7 +43,7 @@ output:
 * real
 * vector
 * integer
-```{r}
+```{r echo=FALSE}
 x<-4
 class(x)
 ```
